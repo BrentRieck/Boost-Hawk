@@ -1,0 +1,4 @@
+.venv/
+config.json
+boosters.json
+__pycache__/
